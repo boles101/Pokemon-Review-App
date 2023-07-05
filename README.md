@@ -1,5 +1,5 @@
 # Pokemon-Review-App
-Pokemon Reviwe / Rating Api where you can rate your favorite pokemon 
+Pokemon Review / Rating Api where you can Review and rate your favorite pokemon 
 Has the following Entities : Pokemon - Country - Category - Owner - Reviewer - Review
 
 Each of the entities has it's own Crud Operations.
